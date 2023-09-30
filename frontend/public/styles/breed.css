@@ -35,6 +35,8 @@
 	align-items: center;
 	border-radius: var(--breed-tools-radius);
 	background: var(--breed-tools-bg);
+	cursor: pointer;
+	border: none;
 }
 
 #breed-filter-icon {
@@ -95,6 +97,8 @@
 	align-items: center;
 	border-radius: var(--breed-tools-radius);
 	background: var(--breed-tools-bg);
+	cursor: pointer;
+	border: none;
 }
 
 #breed-sort-icon {
